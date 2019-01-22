@@ -38,6 +38,7 @@ package-lock.json
 npm-debug.log
 testem.log
 /typings
+.env
 
 # e2e
 /e2e/*.map
